@@ -96,5 +96,5 @@ Find out the threshold value for marking or reporting a transaction as fraudulen
 Can this score be used as an engineered feature in the models developed previously? Are there any incremental gains in F1-Score? Why or Why not?
 
 Be as creative as possible in finding other interesting insights.
-Download the dataset from https://www.dropbox.com/s/6z5jxcqaqipxiun/Project%202-Finance-Datasets.zip?dl=0
+
 Use train_data for training and test_data_hidden for testing.
