@@ -97,4 +97,5 @@ Can this score be used as an engineered feature in the models developed previous
 
 Be as creative as possible in finding other interesting insights.
 
+Download the datatset: https://www.dropbox.com/scl/fi/veygny7slebj0jn9tpwki/Project-2-Finance-Datasets.zip?rlkey=qw1jhow85w8ru1h5iusq3ykdb&e=1&dl=0
 Use train_data for training and test_data_hidden for testing.
