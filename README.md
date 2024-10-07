@@ -10,11 +10,7 @@ Dataset Snapshot
 
 The datasets contain transactions made by credit cards in September 2013 by European cardholders. This dataset represents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
- 
-
-
-
- 
+<img width="1299" alt="1566546571_cap 2" src="https://github.com/user-attachments/assets/fb133cfd-b572-471c-81a6-56366e1a62da">
 
 It contains only numerical input variables which are the result of a PCA transformation. 
 Features V1, V2, ... V28 are the principal components obtained with PCA. 
